@@ -34,6 +34,6 @@ This repository provides a ready-to-fork example to start hosting a static websi
 - Do not host or use subdomains that you would not use in a professional context
 - Do not use personal data
 - Do not enable robots crawling (for the moment)
-- Using a backend REST APIs are not tested/sup
+- Using a backend REST APIs is not tested/supported
 
 Have fun !
