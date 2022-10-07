@@ -9,6 +9,7 @@ This repository provides a ready-to-fork example to start hosting a static websi
 - Wildcard name resolution
 - Advanced features with [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 - Deploy your build workflow using GitHub actions
+- Manage content with Git under the hood
 
 ## Use cases
 
@@ -24,6 +25,7 @@ This repository provides a ready-to-fork example to start hosting a static websi
 - Check the subdomain availability : mybeautifulsite.znk.io
 - Fork this repository or create a new one under the Zenika GitHub organization
 - Name it using the pattern : Zenika/mybeautifulsite.znk.io
+- update the CNAME file with your subdomain
 - In Settings / Pages, fill the subdomain mybeautifulsite.znk.io
 - Wait for the message "DNS check successful"
 - Check "Enforce HTTPS"
